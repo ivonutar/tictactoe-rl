@@ -2,13 +2,6 @@ import numpy as np
 import itertools
 import random
 
-# Symbols
-symbols = {
-    0: ".",
-    1: "X",
-    2: "O"
-}
-
 
 class TicTacToeEnv:
 
